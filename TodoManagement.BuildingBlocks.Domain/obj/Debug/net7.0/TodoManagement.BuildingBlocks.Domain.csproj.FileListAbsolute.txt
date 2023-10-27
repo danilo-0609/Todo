@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\bin\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.deps.json
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\bin\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\bin\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\refint\TodoManagement.BuildingBlocks.Domain.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\TodoManagement.BuildingBlocks.Domain.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TodoManagement.BuildingBlocks.Domain\obj\Debug\net7.0\ref\TodoManagement.BuildingBlocks.Domain.dll

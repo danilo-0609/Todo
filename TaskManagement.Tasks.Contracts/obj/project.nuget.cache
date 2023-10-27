@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVFeLhfcFyryuEszet5cpSDtO3aippD/c4hEUc6EHCS9EbHDLb6XPo5/7T0EeI/aarju1uLVsBD+ChxorvpCvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TodoManagement.Todos.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

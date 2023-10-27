@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\bin\Debug\net7.0\TodoManagement.Users.Contracts.deps.json
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\bin\Debug\net7.0\TodoManagement.Users.Contracts.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\bin\Debug\net7.0\TodoManagement.Users.Contracts.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\refint\TodoManagement.Users.Contracts.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\TodoManagement.Users.Contracts.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Contracts\obj\Debug\net7.0\ref\TodoManagement.Users.Contracts.dll

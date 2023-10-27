@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TodoManagement.Users.Infraestructure/1.0.0": {
+        "runtime": {
+          "TodoManagement.Users.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoManagement.Users.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

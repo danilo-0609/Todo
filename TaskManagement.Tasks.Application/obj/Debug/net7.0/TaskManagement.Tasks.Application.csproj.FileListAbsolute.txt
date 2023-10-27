@@ -1,0 +1,5 @@
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Tasks.Application\obj\Debug\net7.0\TaskManagement.Tasks.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Tasks.Application\obj\Debug\net7.0\TaskManagement.Tasks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Tasks.Application\obj\Debug\net7.0\TaskManagement.Tasks.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Tasks.Application\obj\Debug\net7.0\TaskManagement.Tasks.Application.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Tasks.Application\obj\Debug\net7.0\TaskManagement.Tasks.Application.csproj.CoreCompileInputs.cache

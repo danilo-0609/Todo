@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Web.Api\obj\Debug\net7.0\TaskManagement.Presentation.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Web.Api\\TaskManagement.Web.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\TaskManagement.Tasks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\TaskManagement.Tasks.Application.csproj",
+        "projectName": "TaskManagement.Tasks.Application",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\TaskManagement.Tasks.Application.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TaskManagement.Tasks.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TaskManagement.Tasks.Contracts.csproj",
+        "projectName": "TaskManagement.Tasks.Contracts",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TaskManagement.Tasks.Contracts.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj",
+        "projectName": "TaskManagement.Tasks.Domain",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Web.Api\\TaskManagement.Web.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Web.Api\\TaskManagement.Web.Api.csproj",
+        "projectName": "TaskManagement.Web.Api",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Web.Api\\TaskManagement.Web.Api.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Web.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\TaskManagement.Tasks.Application.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Application\\TaskManagement.Tasks.Application.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TaskManagement.Tasks.Contracts.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Contracts\\TaskManagement.Tasks.Contracts.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Tasks.Domain\\TaskManagement.Tasks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

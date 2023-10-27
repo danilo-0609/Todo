@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0hBTsrhCQ/Js/1oqhGz8QLjIMpZ1VCWLUP+n7nQ0gQ5gM2Hh8vZYzpQYeDxZdHt6FFsO/VUcNCmvjqkeoxjRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

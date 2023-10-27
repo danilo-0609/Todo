@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Infraestructure\\TodoManagement.Users.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\TodoManagement.Users.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\TodoManagement.Users.Application.csproj",
+        "projectName": "TodoManagement.Users.Application",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\TodoManagement.Users.Application.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\TodoManagement.Users.Contracts.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\TodoManagement.Users.Contracts.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\TodoManagement.BuildingBlocks.Application.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\TodoManagement.BuildingBlocks.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\TodoManagement.Users.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\TodoManagement.Users.Contracts.csproj",
+        "projectName": "TodoManagement.Users.Contracts",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\TodoManagement.Users.Contracts.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj",
+        "projectName": "TodoManagement.Users.Domain",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\TodoManagement.BuildingBlocks.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\TodoManagement.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Infraestructure\\TodoManagement.Users.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Infraestructure\\TodoManagement.Users.Infrastructure.csproj",
+        "projectName": "TodoManagement.Users.Infrastructure",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Infraestructure\\TodoManagement.Users.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\TodoManagement.Users.Application.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Application\\TodoManagement.Users.Application.csproj"
+              },
+              "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TaskManagement.Users.Domain\\TodoManagement.Users.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\TodoManagement.BuildingBlocks.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\TodoManagement.BuildingBlocks.Application.csproj",
+        "projectName": "TodoManagement.BuildingBlocks.Application",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\TodoManagement.BuildingBlocks.Application.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\TodoManagement.BuildingBlocks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\TodoManagement.BuildingBlocks.Domain.csproj",
+        "projectName": "TodoManagement.BuildingBlocks.Domain",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\TodoManagement.BuildingBlocks.Domain.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\TaskManagement\\TodoManagement.BuildingBlocks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

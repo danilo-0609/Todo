@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\bin\Debug\net7.0\TodoManagement.Users.Infraestructure.deps.json
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\bin\Debug\net7.0\TodoManagement.Users.Infraestructure.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\bin\Debug\net7.0\TodoManagement.Users.Infraestructure.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\refint\TodoManagement.Users.Infraestructure.dll
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\TodoManagement.Users.Infraestructure.pdb
+C:\Users\USUARIO\source\repos\TaskManagement\TaskManagement.Users.Infraestructure\obj\Debug\net7.0\ref\TodoManagement.Users.Infraestructure.dll

@@ -1,0 +1,39 @@
+﻿Task object
+
+{
+	"id: { "value": "0000-0000-000-00000-0000 GUID" G},
+	"name": "Tareas del día",
+	"description": "Tareas que debo realizar a diario",
+	"taskComment": [
+		{
+		"taskCommentId": { "value": 0321-423202-0342932-432},
+		"comment": "debo hacer todo esto antes de las 10:30 pm"
+		},
+		{
+			"taskCommentId": { "value": 0321-423202-0342932-432},
+			"comment": "otro comentario genérico"			
+		}
+	],
+	"recurringTask": { "value": "Daily" }, //esto puede ser null
+	"archives": [
+		{
+			"archiveId": { "value": "9203-39013-31902-312" },
+			"archivePDF": "archivo.pdf"
+		},
+		{
+			"archiveId": { "value": "9203-4923-31902-312" },
+			"archivePDF": "archivo2.pdf"
+		}
+	],
+	"taskTag": [
+		{
+			"value": "Importante",
+		},
+		{
+			"value": "No tan importante"
+		}
+	],
+	"taskPriority" : { "value": "High" }, 	// Puede ser critical, high, medium, low, minimal
+	"createdDateTime": "2023-02-20- ...."
+	"updatedDateTime": "2023-03-21 ...."
+}
